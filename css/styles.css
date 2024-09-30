@@ -334,7 +334,7 @@ header .dropdown-toggle::after {
 
 /*************************---Como ajudar---***********************/
 
-#entrarcontato {
+#entrarcontato{
     text-align: justify;
     font-size: 30px;
     font-family: 'Open Sans', sans-serif;
@@ -361,7 +361,7 @@ header .dropdown-toggle::after {
     height: 40%;
     margin: 2%;
     float: right;
-    margin-top: 250px;
+    margin-top: 350px;
     display: inline;
 
 }
@@ -377,11 +377,17 @@ header .dropdown-toggle::after {
 }
 
 #imagemmaustratos {
-    margin-top: 200px;
-    width: 100%;
-
-}
-
+    display: block;
+    margin:auto;
+    width: 60%;
+    /* padding: 50px;  
+    border: 1px solid red; */
+    
+}   
+/* .figuraComoAjudar1{
+    display: grid;
+    justify-content: center;
+} */
 #textocomoajudar {
 
     text-align: justify;
@@ -703,7 +709,14 @@ p:hover {
 .footer .social-networks a:hover {
     color: #007bff;
 }
-
+/* .carousel-item{
+    width: 100vw;
+}
+.carousel-item img{
+   width: 100%;
+   height: auto;
+   object-fit: cover;
+} */
 
 /******************** ---SOBRE PROJETO (DESENVOLVEDORES---***************************/
 
